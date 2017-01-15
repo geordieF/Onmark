@@ -1,6 +1,10 @@
 {
   "name": "onmark",
-  "description": "An online markdown editor, bilt for speed and ease of use.",
+  "description": "An online markdown editor, built for speed and ease of use.",
   "repository": "/home/zsty/projects/Onmark",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6"
+  }
 }
